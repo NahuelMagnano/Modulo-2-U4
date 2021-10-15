@@ -1,0 +1,44 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.col{
+    margin-top: 10px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    transition: all 0.8s ease;
+}
+
+.col:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.badge{
+    margin-left: 10px;
+}
+
+table{
+    margin-top: 30px;
+    justify-content: center;
+}
+
+h5{
+    margin-top: 30px;
+    text-decoration: underline;
+}
+
+.formulario{
+    margin-top: 30px;
+}
+
+.input-group{
+    margin: 5px;
+}
+
+.btn{
+    margin: 10px;
+}
